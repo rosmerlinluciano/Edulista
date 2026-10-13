@@ -66,3 +66,10 @@ El proyecto se encuentra en una etapa de organización y documentación técnica
 ## 10. Control de versiones
 
 Git permite registrar los cambios realizados en los archivos del proyecto. GitHub facilita consultar el historial de cambios y colaborar en la organización del trabajo.
+## Registro de cambios
+
+1. **Creación del proyecto:** se creó el repositorio EduLista para organizar el desarrollo del sistema.
+2. **Definición del objetivo:** se estableció que el sistema permitirá registrar y controlar la asistencia de los estudiantes.
+3. **Identificación de requisitos:** se definieron las funciones principales del sistema.
+4. **Organización de tareas:** se crearon Issues para organizar las actividades pendientes del proyecto.
+5. **Definición de la arquitectura:** se estableció una arquitectura por capas para organizar la interfaz, la lógica de negocio y la base de datos.
