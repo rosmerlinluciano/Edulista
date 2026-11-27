@@ -1,0 +1,8 @@
+{
+  "name": "edulista",
+  "version": "1.0.0",
+  "description": "Sistema de control de asistencia estudiantil",
+  "scripts": {
+    "test": "node --test"
+  }
+}
